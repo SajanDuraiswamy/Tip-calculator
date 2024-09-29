@@ -1,0 +1,2 @@
+# Tip-calculator
+responsive website
